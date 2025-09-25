@@ -1,11 +1,11 @@
 ﻿cmake_minimum_required(VERSION 3.22)
 
-set(PROJECT_NAME "One-Knob Pan")
-set(PRODUCT_NAME "One-Knob Pan")
+set(PROJECT_NAME "OK-StereoPan")
+set(PRODUCT_NAME "OK-StereoPan")
 set(COMPANY_NAME "bygaku")
 set(COMPANY_CODE "byga")
-set(PLUGIN_CODE "ONEK")
-set(BUNDLE_ID "com.bygaku.One-Knob Pan")
+set(PLUGIN_CODE "OKST")
+set(BUNDLE_ID "com.bygaku.OK-StereoPan")
 
 project(${PROJECT_NAME} VERSION 0.0.1 LANGUAGES CXX)
 
